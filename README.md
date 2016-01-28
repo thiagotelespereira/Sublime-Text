@@ -5,12 +5,14 @@ Sublime Text 3 build 3083
 
 * alignTab
 * allAutocomplete
+* angularJs
 * autoAligner
 * autoFileNames
 * automaticFullscreen
 * autoPrefixer
+* canIUse
 * canvasSnippets
-* CharacterTable
+* characterTable
 * code formatter
 * color highlight
 * colorHelper
@@ -20,6 +22,7 @@ Sublime Text 3 build 3083
 * css3
 * cssDoc
 * docBlockr
+* emmet
 * encodingHelper
 * expandSelectionToFunction
 * expandSelectionToQuotes
@@ -32,8 +35,10 @@ Sublime Text 3 build 3083
 * gitGutter
 * gitStatus
 * goToCSSDeclaration
+* htmlExtended
 * html5
 * html5DoctorCSSResetSnippet
+* htmlEntitySnippets
 * idiomaticCSSCommentsSnippets
 * javascriptCompletions
 * javascriptBeutify
@@ -55,7 +60,7 @@ Sublime Text 3 build 3083
 * sidebarEnhancements
 * sublimeLint
 * Themes
-	*OneDarkMaterial
+    * OneDarkMaterial
 * todoReview
 * w3cValidators
 
